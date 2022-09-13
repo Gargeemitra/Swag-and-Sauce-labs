@@ -15,6 +15,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import pageobjects.LoginPage;
 import pageobjects.YourCartPage;
 
+//Login for showing the product
 public class LoginTest extends Base {
     
     public WebDriver driver;
